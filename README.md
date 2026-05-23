@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="https://ixxie.codeberg.page/bergmirror/redirect/?cb=ixxie/gifplx&gh=ixxie/gifplx"><img src="https://ixxie.codeberg.page/bergmirror/badge.svg" alt="Codeberg → GitHub mirror"/></a>
+</div>
+
 # GIFPLX
 
 A desktop app for adding text overlays to GIFs. Search for GIFs via Giphy, pick a font from Google Fonts, customize text styling, and export.
